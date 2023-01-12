@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <title>Mi pagina</title>
+  </head>
+  
+  <body border="5" bgcolor="Blue" text="White">
+    <center><h2>Hola mundo!</h2></center>
+      <ul>
+        <li>Matematicas</li>
+        <li>Sociales</li>
+        <li>Lengua</li>
+      </ul>
+      <hr>
+      <table bgcolor="Red" text="Yellow">
+        <tr>
+          <td>Perifericos de entrada<td>
+          <td>
+            <ud>
+              <li><a href="https://es.wikipedia.org/wiki/Teclado_(inform%C3%A1tica)">Teclado</a></li>
+              <li>Raton</li>
+              <li>Microfono</li>
+            </ud>
+          </td>
+        </tr>
+        <tr>
+          <td>Perifericos de salida<td>
+          <td>
+            <ud>
+              <li>Monitor</li>
+              <li>Altavoz</li>
+              <li>Impresora</li>
+            </ud>
+          </td>
+        </tr>
+      </table>
+     <hr size=5 width=50% color=red>
+      <img src="https://thumbs.dreamstime.com/z/conjunto-de-cachorros-perro-beagle-al-estilo-las-caricaturas-vector-del-cachorro-en-forma-caricatura-209506909.jpg" width="400" height="400"></img>
+     <hr>
+  </body>
+</html>
